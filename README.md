@@ -1,3 +1,3 @@
-# odin-recipies
+# odin-recipes
 
-A project about recipies. Written following The Odin Project curriculum, understanding and mastering HTML CSS JS, for acquiring web development skill
+A project about recipes. Written following The Odin Project curriculum, understanding and mastering HTML CSS JS, for acquiring web development skill
